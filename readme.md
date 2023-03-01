@@ -1,0 +1,3 @@
+#learning Git
+
+readme file
