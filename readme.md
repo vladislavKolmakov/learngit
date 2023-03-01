@@ -1,3 +1,3 @@
-#learning Git
+# learning Git
 
 readme file
