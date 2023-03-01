@@ -4,9 +4,7 @@ from typing import List, Optional
 from pydantic import BaseModel, Field
 
 from fastapi import FastAPI, Request, status
-from fastapi.encoders import jsonable_encoder
-from fastapi.exceptions import ValidationError
-from fastapi.responses import JSONResponse
+
 
 app = FastAPI(
     title="Trading App"
